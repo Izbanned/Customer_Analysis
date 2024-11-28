@@ -1,0 +1,13 @@
+joblib=1.4.0=py311hca03da5_0
+matplotlib=3.8.4=py311hca03da5_0
+matplotlib-base=3.8.4=py311h7aedaa7_0
+matplotlib-inline=0.1.6=py311hca03da5_0
+mlxtend=0.23.1=pypi_0
+nltk=3.8.1=py311hca03da5_0
+numpy=1.26.4=py311he598dae_0
+numpy-base=1.26.4=py311hfbfe69c_0
+numpydoc=1.5.0=py311hca03da5_0
+pandas=2.2.2=pypi_0
+scikit-learn=1.2.2=py311h313beb8_1
+seaborn=0.12.2=py311hca03da5_0
+wordcloud=1.9.3=pypi_0

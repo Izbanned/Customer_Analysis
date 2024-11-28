@@ -1,0 +1,25 @@
+# Default ignored files
+.idea
+/workspace.xml
+shelf/
+/httpRequests/
+dataSources/
+dataSources.local.xml
+
+__pycache__/
+*.pyc[cod]
+*.log
+*.tmp
+
+.ipybn_checkpoints/
+
+.venv/
+env/
+
+
+DATA/
+*.csv
+
+
+.DS_Store
+Thumb.db
